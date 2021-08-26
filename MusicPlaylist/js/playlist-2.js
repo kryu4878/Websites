@@ -35,7 +35,7 @@ const buttonTitle = [
 function createListItems( arr, title, link) {
   let items = '';
   for ( let i = 0; i < arr.length; i++ ) {
-    items += `<li>${ arr[i][0] }, by ${ arr[i][1] } - ${ arr[i][2] }</li><a href=${link[i]}>${title[i]}</a>`
+    items += `<li>${ arr[i][0] }, by ${ arr[i][1] } - ${ arr[i][2] }</li><a href=${link[i]} target="_blank">${title[i]}</a>`
   }
   return items;
 }
