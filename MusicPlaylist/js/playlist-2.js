@@ -1,3 +1,5 @@
+alert(`Welcome to my playlist! If you want to listen to the songs, just click on the links :) Hope you like em!`);
+
 const playlist = [
  ['Heart Break Anniversary', 'Giveon', '3:18'],
  ["Heard 'Em Say", 'Kanye West', '3:23'],
