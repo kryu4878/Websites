@@ -3,7 +3,7 @@ alert(`Welcome to my playlist! If you want to listen to the songs, just click on
 const playlist = [
  ['Heart Break Anniversary', 'Giveon', '3:18'],
  ["Heard 'Em Say", 'Kanye West', '3:23'],
- ['Baby, You Make Me Crazy', 'Sam Smith', '3:27'],
+ ['Baby, You Make Me Crazy (Acoustic)', 'Sam Smith', '3:27'],
  ['Dynamite', 'BTS', '3:43'],
  ['Save Your Tears', 'The Weeknd', '3:35'],
  ['STAY', 'The Kid LAROI & Justin Bieber', '2:21'],
